@@ -1,0 +1,77 @@
+{
+  "validation": {
+    "GLD": {
+      "n_rows": 5470,
+      "date_range": [
+        "2004-11-18",
+        "2026-08-18"
+      ],
+      "n_duplicate_dates": 0,
+      "n_nan_adjclose": 0,
+      "n_non_positive_adjclose": 0,
+      "n_stale_5plus_days": 0
+    },
+    "IEF": {
+      "n_rows": 5692,
+      "date_range": [
+        "2004-01-02",
+        "2026-08-18"
+      ],
+      "n_duplicate_dates": 0,
+      "n_nan_adjclose": 0,
+      "n_non_positive_adjclose": 0,
+      "n_stale_5plus_days": 0
+    },
+    "EURUSD": {
+      "n_rows": 7181,
+      "date_range": [
+        "1999-01-04",
+        "2026-08-19"
+      ],
+      "n_duplicate_dates": 0,
+      "n_nan_adjclose": 0,
+      "n_non_positive_adjclose": 0,
+      "n_stale_5plus_days": 0
+    },
+    "GBPUSD": {
+      "n_rows": 9248,
+      "date_range": [
+        "1991-01-02",
+        "2026-08-19"
+      ],
+      "n_duplicate_dates": 0,
+      "n_nan_adjclose": 0,
+      "n_non_positive_adjclose": 0,
+      "n_stale_5plus_days": 0
+    },
+    "USDJPY": {
+      "n_rows": 9248,
+      "date_range": [
+        "1991-01-02",
+        "2026-08-19"
+      ],
+      "n_duplicate_dates": 0,
+      "n_nan_adjclose": 0,
+      "n_non_positive_adjclose": 0,
+      "n_stale_5plus_days": 0
+    }
+  },
+  "alignment": {
+    "common_dates": 5466,
+    "GLD_dropped_dates": 4,
+    "GLD_original_dates": 5470,
+    "IEF_dropped_dates": 226,
+    "IEF_original_dates": 5692,
+    "EURUSD_dropped_dates": 1715,
+    "EURUSD_original_dates": 7181,
+    "GBPUSD_dropped_dates": 3782,
+    "GBPUSD_original_dates": 9248,
+    "USDJPY_dropped_dates": 3782,
+    "USDJPY_original_dates": 9248
+  },
+  "combined_range": [
+    "2004-11-18",
+    "2026-08-18"
+  ],
+  "combined_n_dates": 5466
+}
